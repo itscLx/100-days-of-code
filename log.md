@@ -5,6 +5,6 @@
 
 **Thoughts**: Needed to repead some exercies in Java. Basic object oriented programming, UML and classic Arrays
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Day0](/src/days/day0)
 
  
